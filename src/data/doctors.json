@@ -49,6 +49,8 @@
       "diploma": "Diploma in Diabetology",
       "registration": "Registered with Maharashtra Medical Council",
       "yearsActive": 15
-    }
+    },
+    "whatsappBookingLink": "https://wa.me/918237406167?text=Hello%20Dr.%20Leena%20Sonekar%2C%20I%20would%20like%20to%20book%20an%20appointment.%20Concerns%3A%20[please%20specify]%20My%20name%20is%20[your%20name]%20and%20contact%20number%20is%20[your%20phno]%20Email%3A%20[your%20email]%20Thank%20you%20!.%20%F0%9F%91%8B",
+    "qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fwa.me%2F918237406167%3Ftext%3DHello%2520Dr.%2520Leena%2520Sonekar%252C%2520I%2520would%2520like%2520to%2520book%2520an%2520appointment.%2520Concerns%253A%2520%255Bplease%2520specify%255D%2520My%2520name%2520is%2520%255Byour%2520name%255D%252C%2520and%2520contact%2520number%2520is%2520%255Byour%2520phno%255D%2520Email%253A%2520%255Byour%2520email%255D%2520Thank%2520you%2520%2521.%2520%25F0%259F%2591%258B"
   }
 ]
