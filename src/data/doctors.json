@@ -18,11 +18,37 @@
     "verified": true,
     "medicalLicense": "Registered with Maharashtra Medical Council",
     "education": [
-      "MD - Medicine",
-      "FCI - Fellowship in Cardiology"
+      "MD - General Medicine",
+      "Diploma in Diabetology"
     ],
     "languages": ["Marathi", "English", "Hindi"],
-    "bioMarathi": "मराठीत तांत्रिक आरोग्य सेवा - १५ वर्षांच्या अनुभवाने",
-    "bioEnglish": "Experienced physician with special focus on cardiology and diabetes management."
+    "bioMarathi": "कार्डियोलॉजी व डायबिटीजवरीत विशेषज्ञ टेस्टिंग प्रकृतिकृत डॉ. लीना सोणकर",
+    "bioEnglish": "Dr. Leena Sonekar is an accomplished Consultant Physician holding an MD in General Medicine. With a primary clinical focus on Cardiology and Diabetology, she provides evidence-based, compassionate care for complex multi-system health conditions, cardiovascular management, and metabolic disorders.",
+    "profile": {
+      "headline": "Consulting Physician | Special Interest in Cardiology & Diabetology",
+      "executiveSummary": "Dr. Leena Sonekar is an accomplished Consultant Physician holding an MD in General Medicine. With a primary clinical focus on Cardiology and Diabetology, she provides evidence-based, compassionate care for complex multi-system health conditions, cardiovascular management, and metabolic disorders.",
+      "keyAreasOfExpertise": [
+        {
+          "title": "General Internal Medicine",
+          "description": "Comprehensive diagnosis, acute illness management, and long-term care for complex adult medical conditions."
+        },
+        {
+          "title": "Cardiology & Cardiovascular Wellness",
+          "description": "Prevention, diagnosis, and therapeutic management of hypertension, ischemic heart disease, and vascular health."
+        },
+        {
+          "title": "Diabetology & Metabolic Care",
+          "description": "Personalized glycemic control strategies, lifestyle modification plans, and management of diabetes complications."
+        }
+      ],
+      "practiceLocation": "Primary Location: Kalyan, Thane / Mumbai Metropolitan Region (MMR), Maharashtra, India.",
+      "communityEngagement": "Health Awareness: Actively participates in medical education and public awareness initiatives, including discussions on hypertension prevention and heart health."
+    },
+    "credentials": {
+      "primaryQualification": "MD - Medicine",
+      "diploma": "Diploma in Diabetology",
+      "registration": "Registered with Maharashtra Medical Council",
+      "yearsActive": 15
+    }
   }
 ]
