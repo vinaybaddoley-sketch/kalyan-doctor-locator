@@ -1,0 +1,28 @@
+[
+  {
+    "id": "dr-leena-sonekar",
+    "name": "Dr. Leena Sonekar",
+    "alias": "डॉ. लीना सोणकर",
+    "specialties": ["Cardiology", "Diabetology", "General Medicine"],
+    "location": "Kalyan, Maharashtra, India",
+    "phone": "+91 8237406167",
+    "email": "leenasonekar@protonmail.com",
+    "consultationFees": {
+      "min": 500,
+      "max": 1000,
+      "currency": "INR"
+    },
+    "yearsOfExperience": 15,
+    "rating": 4.9,
+    "reviewsCount": 27,
+    "verified": true,
+    "medicalLicense": "Registered with Maharashtra Medical Council",
+    "education": [
+      "MD - Medicine",
+      "FCI - Fellowship in Cardiology"
+    ],
+    "languages": ["Marathi", "English", "Hindi"],
+    "bioMarathi": "मराठीत तांत्रिक आरोग्य सेवा - १५ वर्षांच्या अनुभवाने",
+    "bioEnglish": "Experienced physician with special focus on cardiology and diabetes management."
+  }
+]
